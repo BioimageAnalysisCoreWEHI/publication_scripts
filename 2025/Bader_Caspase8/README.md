@@ -32,5 +32,5 @@ This repo shares the training data, annotations, trained model, and workflows us
 
 ## Repository Contents
 - `/training_images` – image patches and annotations
-- `/cellpose_model/` – final trained Cellpose model weights  
-- `/scripts/` – example VPT commands and cellpose2_custom.json file used for the NextFlow pipeline 
+- `/cellpose_model` – final trained Cellpose model weights  
+- `/scripts` – example VPT commands and cellpose2_custom.json file used for the NextFlow pipeline 
