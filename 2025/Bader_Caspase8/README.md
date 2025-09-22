@@ -19,7 +19,7 @@ This repo shares the training data, annotations, trained model, and workflows us
   - Learning rate: 0.1  
   - Weight decay: 1×10⁻⁴  
 
-- **VPT** with:  
+- **VPT** with the cellpose2 plugin (vpt-plugin-cellpose2):  
   - Cell diameter = 93.11 px  
   - Flow threshold = 0.6  
   - Cell probability threshold = -4  
