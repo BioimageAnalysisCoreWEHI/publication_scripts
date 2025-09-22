@@ -1,11 +1,11 @@
 # Custom Cell Segmentation with Cellpose + Vizgen Post-Processing Tool
 
-This repository contains the training data, the final Cellpose model, and command line scripts for using the Vizgen Post-Processing Tool **[VPT](https://github.com/Vizgen/vizgen-postprocessing)**
+This repository contains the training data, the final Cellpose model, and command line scripts for using the **[Vizgen Post-Processing Tool (VPT)](https://github.com/Vizgen/vizgen-postprocessing)**
 
 ---
 
 ## Overview
-We developed a **custom Cellpose 2.0 model** using a human-in-the-loop approach to segment Vizgen MERFISH data.  
+We developed a **custom Cellpose 2.0 model** using a human-in-the-loop approach to re-segment MERSCOPE data.  
 This repo shares the training data, annotations, trained model, and workflows used for the results in the paper.
 
 ---
